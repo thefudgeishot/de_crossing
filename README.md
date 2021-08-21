@@ -2,33 +2,21 @@
 
 A csgo map made by thefudgeishot and Pyrtsim.
 
-
 ## Running it
-This project requires python 3+ and requirements.txt
+This project requires CSGO-SDK running version 7169211.
 
 
-This project also requires a discord application that you can create at [discord](https://discord.com/developers/applications) or you can follow this [great guide](https://www.writebots.com/discord-bot-token/) on how to create a discord application and get a bot token. Further variables will need to be changed to fit your special case like the controls and the bot token.
 
 
-## Mac
+## Windows
 
-Brew available at [brew.sh](https://brew.sh)
-
-```
-$ brew install python3
-```
-
-Install requirements
+Download CSGO-SDK on steam.
 
 ```
-$ [sudo] pip3 install requirements.txt
+$ Opening the file in Hammer
 ```
 
-With both a success only then can the project be run with
-
-```
-$ sudo python3 init.py
-```
+tbd
 
 
 ## License
@@ -37,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks for the Inspiration Harry M
+* No one :)
